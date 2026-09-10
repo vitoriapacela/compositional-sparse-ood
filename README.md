@@ -92,14 +92,16 @@ paper_figures/           # Generated figures
 ## Citation
 
 ```bibtex
-@misc{pacela2026stopprobingstartcoding,
-  title={Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation},
-  author={Vitória Barin Pacela and Shruti Joshi and Isabela Camacho and Simon Lacoste-Julien and David Klindt},
-  year={2026},
-  eprint={2603.28744},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG},
-  url={https://arxiv.org/abs/2603.28744},
+@InProceedings{barin-pacela26a,
+  title = 	 {Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalization},
+  author =       {Barin-Pacela, Vit\'{o}ria and Joshi, Shruti and Camacho, Isabela and Lacoste-Julien, Simon and Klindt, David},
+  booktitle = 	 {Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence},
+  pages = 	 {364--412},
+  year = 	 {2026},
+  volume = 	 {337},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--21 Aug},
+  publisher =    {PMLR},
 }
 ```
 
